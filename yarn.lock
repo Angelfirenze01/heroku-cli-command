@@ -29,9 +29,9 @@
     supports-color "^5.4.0"
     tslib "^1.9.3"
 
-"@heroku-cli/schema@^1.0.20":
-  version "1.0.20"
-  resolved "https://registry.yarnpkg.com/@heroku-cli/schema/-/schema-1.0.20.tgz#1e01e68e419af33012a54641d21f1ae30b89c23c"
+"@heroku-cli/schema@^1.0.21":
+  version "1.0.21"
+  resolved "https://registry.yarnpkg.com/@heroku-cli/schema/-/schema-1.0.21.tgz#825f162b1abae789d237352fb8162ef934184240"
 
 "@heroku-cli/tslint@^1.1.4":
   version "1.1.4"
